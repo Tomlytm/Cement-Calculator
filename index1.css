@@ -1,0 +1,37 @@
+body {
+	text-align: center;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	min-height: 80vh;
+	background-color: brown;
+}
+.container {
+	background-color: black;
+	padding: 50px;
+	box-shadow: 10px 10px 5px grey;
+	border-radius: 10px;
+}
+h1 {
+	color: white;
+	font-family: sans-serif;
+	text-shadow: 2px 2px 3px grey;
+
+}
+h3 {
+	color: white;
+	font-family: sans-serif;
+	text-shadow: 2px 2px 3px grey;
+
+}
+input {
+	height: 25px;
+	text-shadow: 2px 2px 3px grey;
+	box-shadow: 2px 2px 3px orange;
+
+}
+.screen {
+	color: white;
+	text-shadow: 2px 2px 3px grey;
+
+}
